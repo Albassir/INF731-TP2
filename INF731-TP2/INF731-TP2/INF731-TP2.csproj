@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="comptes.cs" />
+=======
+    <Compile Include="clients.cs" />
+>>>>>>> 4362e22300d8bfe9bde0321610260f3d8e7d5a0c
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
