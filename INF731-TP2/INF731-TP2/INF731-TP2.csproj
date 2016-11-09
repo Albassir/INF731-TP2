@@ -44,8 +44,12 @@
   </ItemGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Compile Include="comptes.cs" />
 =======
+=======
+    <Compile Include="comptes.cs" />
+>>>>>>> 3ecfdc1afab33627d26f577cf23fd951609f5eee
     <Compile Include="clients.cs" />
 >>>>>>> 4362e22300d8bfe9bde0321610260f3d8e7d5a0c
     <Compile Include="Program.cs" />
