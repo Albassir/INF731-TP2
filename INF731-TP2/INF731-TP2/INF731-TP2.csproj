@@ -43,17 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <Compile Include="comptes.cs" />
-=======
-=======
-    <Compile Include="comptes.cs" />
->>>>>>> 3ecfdc1afab33627d26f577cf23fd951609f5eee
-    <Compile Include="clients.cs" />
->>>>>>> 4362e22300d8bfe9bde0321610260f3d8e7d5a0c
-=======
     <Compile Include="Banque.cs" />
     <Compile Include="ClientIndividuel.cs" />
     <Compile Include="Compte.cs" />
@@ -62,7 +51,6 @@
     <Compile Include="CompteFlexible.cs" />
     <Compile Include="CompteÉpargne.cs" />
     <Compile Include="GestionFichiers.cs" />
->>>>>>> 93f67e978dbf7802213772d7dde1c5becc9f6b14
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Temporaire.cs" />
